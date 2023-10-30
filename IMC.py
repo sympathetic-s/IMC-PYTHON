@@ -1,6 +1,6 @@
 altura = input("Digite sua altura em metros: ")
 peso = input("Digite seu peso em kg: ")
-imc = float(peso) / (float(altura) * float(altura))
+imc = float(peso) / float(altura**2)
 
 if imc < 18.5:
     print(f"{imc:,.1f} Sua classificação de acordo com a oms é: Baixo peso")
