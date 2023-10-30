@@ -1,6 +1,6 @@
 # IMC-PYTHON
-O Índice de Massa Corpórea é reconhecido internacionalmente para avaliar o grau de sobrepso e obesidade da população. Apesar de não ser específico para a medição da composiçaõ corporal é amplamente utilizado em estudos epidemiológicos,
-tanto para o monitoramento do estado antropométrico da população quanto para o monitoramento do excesso de peso. A utilização do IMC pelos pesquisadores se dá
+O Índice de Massa Corpórea é reconhecido internacionalmente para avaliar o grau de sobrepso e obesidade da população. Apesar de não ser específico para a medição da composição corporal é amplamente utilizado em estudos epidemiológicos,
+tanto para o monitoramento do estado antropométrico quanto para o monitoramento do excesso de peso da população. A utilização do IMC pelos pesquisadores se dá
 pelo fácil acesso das medidas e sua simplicidade na utilização. O IMC é obtido pela fórmula IMC = Peso ÷ (Altura)², na qual o peso é sempre em kilogramas e altura em metros. Após a utilização da formúla os resultados são classificados da seguinte 
 maneira:
 
